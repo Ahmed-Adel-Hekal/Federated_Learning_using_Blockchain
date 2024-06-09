@@ -9,7 +9,7 @@ This repo present my work to use federated Learning (Weighted learning).Known th
 
 ## Description : 
 **Federated Learning** is  a machine learning technique that trains models across multiple decentralized devices or servers holding local data samples, without exchanging their data. it provide a new way to train model without moving data making it compromise for cyber attack. 
-using Toolchain we add another layer of protection by protecting model weights while it transfered.
+using **Blockchain** we add another layer of protection by protecting model weights while it transfered.Which is suitable for Organizations in finance and healthcare industry.
 
 ## Federated Learning vs. Distributed Learning
 
@@ -27,7 +27,6 @@ A **smart contract** is a self-executing contract with the terms of the agreemen
 
 
 - Using smart contract we define how to transform Model Weights between Clients and Server
-- 
 
 
 
